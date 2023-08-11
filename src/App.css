@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-color{
+  background-color:rgb(167, 0, 0);
+}
+.drop{
+  color: white;
+}
+.drop:focus{
+  color: white;
+  box-shadow: none;
+}
